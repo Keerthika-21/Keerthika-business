@@ -1,0 +1,18 @@
+{
+    "Student": [
+      {
+        "stuId": "1",
+        "stuName": "ron",
+        "stuMark1": 85,
+        "stuMark2": 78
+       
+      },
+      {
+        "stuId": "2",
+        "stuName": "John ",
+        "stuMark1": 95,
+        "stuMark2": 98
+      }
+    ]
+  }
+  
